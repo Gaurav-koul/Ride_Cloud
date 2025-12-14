@@ -1,68 +1,105 @@
-**Privacy Policy**
+# Privacy Policy
 
-This privacy policy applies to the RideCloud app (hereby referred to as "Application") for mobile devices that was created by Gaurav koul (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
+This Privacy Policy applies to the **RideCloud** mobile application (hereinafter referred to as the **“Application”**) developed by **Gaurav Koul** (hereinafter referred to as the **“Service Provider”**) as a **free service**.  
+The Application is provided on an **“AS IS”** basis.
 
-**Information Collection and Use**
+---
 
-The Application collects information when you download and use it. This information may include information such as
+## Information Collection and Use
 
-*   Your device's Internet Protocol address (e.g. IP address)
-*   The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
-*   The time spent on the Application
-*   The operating system you use on your mobile device
+The Application collects information when you download and use it. This information may include:
 
-The Application does not gather precise information about the location of your mobile device.
+- Your device’s Internet Protocol (IP) address  
+- The pages of the Application that you visit  
+- The time and date of your visit  
+- The time spent using the Application  
+- The operating system used on your mobile device  
 
-The Application collects your device's location, which helps the Service Provider determine your approximate geographical location and make use of in below ways:
+### Personal Information
 
-*   Geolocation Services: The Service Provider utilizes location data to provide features such as personalized content, relevant recommendations, and location-based services.
-*   Analytics and Improvements: Aggregated and anonymized location data helps the Service Provider to analyze user behavior, identify trends, and improve the overall performance and functionality of the Application.
-*   Third-Party Services: Periodically, the Service Provider may transmit anonymized location data to external services. These services assist them in enhancing the Application and optimizing their offerings.
+For a better experience, the Service Provider may require you to provide certain personally identifiable information, including but not limited to:
 
-The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
+- Name  
+- Email address  
+- Phone number  
 
-For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information, including but not limited to Email, name, phone number. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
+This information is used to provide and improve the Application and will be retained and used in accordance with this Privacy Policy.
 
-**Third Party Access**
+---
 
-Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+## Location Information
 
-The Service Provider may disclose User Provided and Automatically Collected Information:
+The Application **does not collect, use, or store any location data**, including precise or approximate location information.
 
-*   as required by law, such as to comply with a subpoena, or similar legal process;
-*   when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
-*   with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
+---
 
-**Opt-Out Rights**
+## Third-Party Services
 
-You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+The Application **does not use third-party services** such as analytics, advertising, or tracking SDKs that collect user data.
 
-**Data Retention Policy**
+---
 
-The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at team.ridecloud@gmail.com and they will respond in a reasonable time.
+## Third-Party Access
 
-**Children**
+The Service Provider does **not** sell, trade, or rent users’ personal information to third parties.
 
-The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
+User-provided and automatically collected information may be disclosed:
 
-The Service Provider does not knowingly collect personally identifiable information from children. The Service Provider encourages all children to never submit any personally identifiable information through the Application and/or Services. The Service Provider encourage parents and legal guardians to monitor their children's Internet usage and to help enforce this Policy by instructing their children never to provide personally identifiable information through the Application and/or Services without their permission. If you have reason to believe that a child has provided personally identifiable information to the Service Provider through the Application and/or Services, please contact the Service Provider (team.ridecloud@gmail.com) so that they will be able to take the necessary actions. You must also be at least 16 years of age to consent to the processing of your personally identifiable information in your country (in some countries we may allow your parent or guardian to do so on your behalf).
+- As required by law or legal process  
+- When necessary to protect rights, safety, or investigate fraud  
+- To comply with a government request  
 
-**Security**
+---
 
-The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
+## Opt-Out Rights
 
-**Changes**
+You can stop all collection of information by the Application by uninstalling it using the standard uninstall process available on your device or through the application marketplace.
 
-This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
+---
 
-This privacy policy is effective as of 2025-12-14
+## Data Retention Policy
 
-**Your Consent**
+The Service Provider will retain user-provided data for as long as you use the Application and for a reasonable period thereafter.
 
-By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by us.
+If you would like your account or personal data to be deleted, you may request deletion by contacting:
 
-**Contact Us**
+📧 **team.ridecloud@gmail.com**
 
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at team.ridecloud@gmail.com.
+The Service Provider will respond to such requests within a reasonable timeframe.
 
-* * *
+---
+
+## Children’s Privacy
+
+The Application is **not directed toward children under the age of 13**.  
+The Service Provider does not knowingly collect personally identifiable information from children under 13.
+
+If you believe that a child has provided personal information to the Service Provider, please contact **team.ridecloud@gmail.com**, and appropriate action will be taken.
+
+---
+
+## Security
+
+The Service Provider is committed to protecting your information and uses reasonable administrative, technical, and physical safeguards to protect the data processed and maintained.
+
+---
+
+## Changes to This Privacy Policy
+
+This Privacy Policy may be updated from time to time. Any changes will be posted on this page. Continued use of the Application after changes are made constitutes acceptance of the updated Privacy Policy.
+
+**Effective Date:** 14 December 2025
+
+---
+
+## Your Consent
+
+By using the Application, you agree to the collection and use of information as described in this Privacy Policy.
+
+---
+
+## Contact Us
+
+If you have any questions or concerns about this Privacy Policy or data practices, please contact:
+
+📧 **team.ridecloud@gmail.com**
